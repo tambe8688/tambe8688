@@ -1,4 +1,4 @@
-//![logo](https://github.com/tambe8688/tambe8688/blob/main/nevergiveup.jpg)
+
 <h1 align="center">Hi 👋, I'm Pooja Tambe</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
